@@ -1,0 +1,90 @@
+.trainer {
+  margin-bottom: 5rem;
+}
+
+.trainerContainer > h1 {
+  color: red;
+  margin: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8rem;
+  margin-bottom: 2rem;
+}
+
+.trainerContainer p {
+  font-size: 0.9rem;
+  color: white;
+  margin: 0;
+  margin-left: 24rem;
+  margin-right: 24rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.trainerContainer > span {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 4rem;
+  font-weight: 700;
+}
+
+.cards {
+  display: flex;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.card > img {
+  height: 18rem;
+  width: 28rem;
+  margin-right: 2rem;
+}
+
+.card > h2 {
+  color: red;
+  margin-left: 11rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.card > h4 {
+  color: white;
+  margin-left: 8.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.card > p {
+  color: white;
+  text-align: center;
+  margin: 0;
+  margin-left: 1rem;
+  margin-right: 3rem;
+}
+
+.btn {
+  height: 3rem;
+  width: 10rem;
+  background-color: red;
+  color: white;
+  border: none;
+  font-weight: 600;
+  margin-top: 3rem;
+  margin-left: 43rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.5s ease-out;
+}
+
+.btn:hover {
+  background-color: black;
+  border: 1px solid red;
+}
